@@ -1,4 +1,13 @@
-# FlashCards Starter Kit
+# overview
+
+The reach of this project was to impose the developer to intergrate multiple code bases/files to allow the flow of data to create a game. This game would take Card objects and place them into a Deck. The player would then take a Turn guessing at a multiple choice questions based off the information on the Cards in the Deck. Each Round would last the Decks length. After the deck had been gon through and we attempted to guess the right answer on each card. We would return the percentage of correct guesses the user/player had.
+
+# GIF
+
+
+
+
+# FlashCards Starter Kit (GUIDE)
 
 ## Fork This Repo
 
